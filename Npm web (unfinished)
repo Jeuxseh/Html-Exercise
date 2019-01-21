@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>npm</title>
+</head>
+<body>
+  <nav>
+    <div class="top-left">
+      <a class = "heart" href="#">♥︎</a>
+      <span class="acronym">Neophobe Plebeian Mumpsimus</span>
+    </div>
+    <ul class="top-links">
+      <li><a href="#">npm Enterprise</a></li>
+      <li><a href="#">features</a></li>
+      <li><a href="#">pricing</a></li>
+      <li><a href="#">documentation</a></li>
+      <li><a href="#">support</a></li>
+    </ul>
+  </nav>
+  <header>
+    <heading>
+      <h2>Build amazing things</h2>
+    </heading>
+    <p>npm is the package manager for javaScript and blablabla</p>
+    <a href="#">Sing up for npm</a>
+    
+
+  </header>
+  <section id="section 1">
+    <heading>
+      <img src= >
+      <h2>Npm Orgs is powerful collaboration - for free</h2>
+
+    </heading>
+    <ul>
+      <li>Encorage</li>
+      <li>Publish</li>
+      <li>Managemente</li>
+
+    </ul>
+    <a href="#">Sing up for Orgs</a>
+    or <a href="#">Lear more about Orgs</a>
+  </section>
+  <section id="section 2">
+    <heading>
+      <h1>What is npm?</h1>
+
+    </heading>
+    <p>Use npm to install, share and distribute code.....</p>
+    <a href="#">Install npm</a>
+  </section>
+  <section id="section 3">
+    <heading>
+      <h2>What can you make with 475,000 building blocks?</h2>
+     <p>The npm registry host almost a million</p>
+    </heading>
+    <hr>
+    <div>
+      <h1>Find</h1>
+      <p>Librearies like <a href="#">Jdaery</a>,<a href="#">Reack</a>and<a href="#">Angular</a></p>
+    </div>
+    <div>
+        <h1>Discover</h1>
+        <p>Packages for mobile</p>
+    </div>
+    <div>
+      <h1>Build</h1>
+      <p>Assemble packages like building</p>
+
+    </div>
+  </section>
+</body>
+</html>
